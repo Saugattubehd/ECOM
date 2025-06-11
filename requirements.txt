@@ -105,3 +105,6 @@ uritemplate
 urllib3
 whitenoise
 django-extensions
+python-decouple
+
+
